@@ -10,7 +10,7 @@
 
 - 	[RUKEN KARANCI](https://github.com/Karanci "RUKEN KARANCI")
 
-- 	[EMİNE ADATEPE](http://about:blank "EMİNE ADATEPE")
+- 	EMİNE ADATEPE
 
 - Special Thanks
 	- ENES ALTUNIŞIK
