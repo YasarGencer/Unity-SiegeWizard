@@ -1,4 +1,0 @@
-repository "aptalUnity@Rossen_Studios@cloud"
-  path "/"
-    br "/main"
-    co "/main"
