@@ -1,8 +1,6 @@
 ## Siege Wizard
 [This game coded in 48 hours for GGJ 2022](https://globalgamejam.org/2022/games/siege-wizard-3) 
 
-[Youtube Video](https://www.youtube.com/watch?v=KKMR9Y4kY-o "Game Video")
-
 [PLAY HERE](https://benyasar.itch.io/siege-wizard "itch.io") 
 
 [GAME WEBSITE](https://yasargencer.github.io/SiegeWizard.html "Game Website")
